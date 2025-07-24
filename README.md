@@ -1,18 +1,8 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+
 
 # Laravel Library Management System
 
 ## Quick Start 
-clone the repo
-```
-    git clone https://github.com/tauseedzaman/Laravel-libraray-management-system
-```
-
-change current directory
-
-```
-cd Laravel-libraray-management-system
-```
 install dependencies
 ```
 composer install
@@ -39,27 +29,23 @@ php artisan serve
 ```
 credentails
 ```
-username: tauseedzaman
-password: password
+username: admin    
+password: admin
 ```
 # That's all 🎊🎉 
 
 ## ScreenShots
-<img src="Screenshots/lms (1).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (2).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (3).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (4).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (5).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (6).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (7).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (8).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (9).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (10).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (11).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (12).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (13).png" width="100%" /><br /> <br />
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/42dd71a0-fa6b-42d7-b1d5-bd17221d1fa9" />
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/40d9e2ac-8bc6-45ce-b35d-205de67d9156" />
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/d21d48ec-7b9f-4503-aaa8-ab2204c03e19" />
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/1fd50135-fd89-4f3b-9592-dadacda78057" />
+<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/81b03c1c-b393-4a4e-9370-3ee3d5179fb7" />
+<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/adf6d606-a569-4fdc-b98b-90faa8393e5a" />
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/3aa456aa-a4ce-444e-8029-65aa52bb1578" />
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/1777ff5b-081a-4f20-b29e-4fce384703ce" />
 
-Watch demo at tauseedzaman youtube channel https://youtube.com/channel/UCnJYN9jTfEnumvJUw4rhh9A
+
+
 
 ```
 Make sure to leave a start ✨✨
