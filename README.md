@@ -2,6 +2,18 @@
 
 # Laravel Library Management System
 
+`## 🚀 Features
+
+- User and Admin Authentication (Login/Logout)
+- Admin Dashboard with book management (Add, Edit, Delete)
+- Issue and Return book records
+- Category-wise book listing
+- Search and pagination
+- Database Seeding
+- Clean UI using Bootstrap`
+
+---
+
 ## Quick Start 
 install dependencies
 ```
@@ -45,8 +57,4 @@ password: admin
 <img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/1777ff5b-081a-4f20-b29e-4fce384703ce" />
 
 
-
-
-```
-Make sure to leave a start ✨✨
 ```
